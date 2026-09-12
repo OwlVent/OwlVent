@@ -10,7 +10,7 @@ const varvara = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Java, C++],
   tools: [~Studying],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am doing the #100DaysOfCode challenge focused on Java and SpringBoot"
 }
 ```
 
