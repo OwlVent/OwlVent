@@ -9,8 +9,7 @@
 const varvara = {
   pronouns: "she" | "her",
   code: [HTML, CSS, Java, C++],
-  study: [Java, SpringBoot, Docker, C++],
- challenge: "I am doing the #100DaysOfCode challenge focused on Java and SpringBoot"
+  study: [Java, SpringBoot, Docker, C++]
 }
 ```
 
