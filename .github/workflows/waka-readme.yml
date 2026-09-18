@@ -18,3 +18,6 @@ jobs:
           SHOW_PROFILE_VIEWS: "False"
           SHOW_TIMEZONE: "False"
           SYMBOL_VERSION: 2
+          SHOW_UPDATED_DATE: "False"
+          SHOW_AI_CODE_TIME: "False"
+          SHOW_PROJECTS_TIMELINE: "False"
