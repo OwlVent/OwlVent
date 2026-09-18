@@ -78,9 +78,9 @@ Python                   1 repo              ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
-**Timeline**
+<!-- **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/OwlVent/OwlVent/main/assets/bar_graph.png)
+![Lines of Code chart](https://raw.githubusercontent.com/OwlVent/OwlVent/main/assets/bar_graph.png) -->
 
 
 <!--END_SECTION:waka-->
