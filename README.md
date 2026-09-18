@@ -19,6 +19,88 @@ const varvara = {
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=OwlVent&theme=vue&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2035%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2035%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 19.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 90 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 7 Public Repositories 
+ > 
+> 🔑 3 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+🌆 Daytime                34 commits          ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+🌃 Evening                98 commits          █████████████████░░░░░░░░   66.22 % 
+🌙 Night                  3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   72 commits          ████████████░░░░░░░░░░░░░   48.65 % 
+Tuesday                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+Wednesday                5 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Thursday                 11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Saturday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   9 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Moscow
+
+💬 Programming Languages: 
+Java                     2 hrs 1 min         ████████████████████████░   94.21 % 
+CSV                      5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+CSV/TSV                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+
+🔥 Editors: 
+IntelliJ IDEA            2 hrs 7 mins        █████████████████████████   98.40 % 
+Unknown Editor           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
+
+🐱‍💻 Projects: 
+DocumentComparison       2 hrs 9 mins        █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
+**I Mostly Code in C++** 
+
+```text
+C++                      7 repos             ███████████████████░░░░░░   77.78 % 
+Java                     1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Python                   1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/OwlVent/OwlVent/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/09/2026 16:22:28 UTC
 <!--END_SECTION:waka-->
 
 👨‍💻 All of my projects are available at **[https://github.com/OwlVent?tab=repositories](https://github.com/OwlVent?tab=repositories)**
