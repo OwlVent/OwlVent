@@ -19,15 +19,6 @@ const varvara = {
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=OwlVent&theme=vue&hide_border=true)](https://git.io/streak-stats) -->
 
 <!--START_SECTION:waka-->
-
-```rust
-From: 09 July 2026 - To: 17 September 2026
-
-Total Time: 2 hrs 35 mins
-
-Other     4 hrs 9 mins          >>>>>>>>>>>>>>>----------   61.60 %
-```
-
 <!--END_SECTION:waka-->
 
 👨‍💻 All of my projects are available at **[https://github.com/OwlVent?tab=repositories](https://github.com/OwlVent?tab=repositories)**
