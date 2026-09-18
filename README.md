@@ -16,7 +16,10 @@ const varvara = {
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=OwlVent&hide_title=true&show_icons=true&include_all_commits=true&theme=vue&hide=issues&hide_border=true)](https://github-stats-extended.vercel.app/api?username=OwlVent&hide_title=true&show_icons=true&include_all_commits=true&theme=vue&hide_border=true)
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=OwlVent&layout=compact&langs_count=4&theme=vue&hide_border=true)](https://github-stats-extended.vercel.app/api/top-langs?username=OwlVent&layout=compact&langs_count=4&theme=vue&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=OwlVent&theme=vue&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=OwlVent&theme=vue&hide_border=true)](https://git.io/streak-stats) -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 👨‍💻 All of my projects are available at **[https://github.com/OwlVent?tab=repositories](https://github.com/OwlVent?tab=repositories)**
 
